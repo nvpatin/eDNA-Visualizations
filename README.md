@@ -1,2 +1,2 @@
-# Amplicon-visualizations
-Scripts for visualizing and running statistics on amplicon sequence data sets.
+# eDNA Visualizations
+Scripts for summarizing, running statistics on, and generating graphics for metabarcoding and shotgun metagenomic sequence data sets.
