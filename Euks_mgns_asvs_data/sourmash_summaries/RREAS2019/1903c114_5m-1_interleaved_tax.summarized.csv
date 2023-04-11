@@ -1,0 +1,27 @@
+query_name,rank,fraction,lineage,query_md5,query_filename,f_weighted_at_rank,bp_match_at_rank
+,superkingdom,0.056140350877192984,d__Bacteria,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.060935299359029645,496000
+,superkingdom,0.9438596491228071,unclassified,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.9390647006409704,0
+,phylum,0.035200905489530275,d__Bacteria;p__Proteobacteria,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.0381707912965997,311000
+,phylum,0.020939445387662705,d__Bacteria;p__Bacteroidota,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.02276450806242994,185000
+,phylum,0.9438596491228071,unclassified,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.9390647006409704,0
+,class,0.035200905489530275,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.0381707912965997,311000
+,class,0.020939445387662705,d__Bacteria;p__Bacteroidota;c__Bacteroidia,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.02276450806242994,185000
+,class,0.9438596491228071,unclassified,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.9390647006409704,0
+,order,0.035200905489530275,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.0381707912965997,311000
+,order,0.020939445387662705,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.02276450806242994,185000
+,order,0.9438596491228071,unclassified,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.9390647006409704,0
+,family,0.035200905489530275,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.0381707912965997,311000
+,family,0.011884550084889643,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.011109194906728752,105000
+,family,0.009054895302773062,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Schleiferiaceae,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.011655313155701187,80000
+,family,0.9438596491228071,unclassified,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.9390647006409704,0
+,genus,0.025806451612903226,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Amylibacter,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.025811273030381422,228000
+,genus,0.011884550084889643,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Hel1-33-131,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.011109194906728752,105000
+,genus,0.009394453876627051,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__LGRT01,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.012359518266218275,83000
+,genus,0.009054895302773062,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Schleiferiaceae;g__UBA10364,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.011655313155701187,80000
+,genus,0.9438596491228071,unclassified,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.9390647006409704,0
+,species,0.016072439162422184,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Amylibacter;s__Amylibacter sp900197625,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.017274582506970195,142000
+,species,0.011884550084889643,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Hel1-33-131;s__Hel1-33-131 sp018608705,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.011109194906728752,105000
+,species,0.009734012450481042,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Amylibacter;s__Amylibacter sp000153745,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.008536690523411227,86000
+,species,0.009394453876627051,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__LGRT01;s__LGRT01 sp001642945,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.012359518266218275,83000
+,species,0.009054895302773062,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Schleiferiaceae;g__UBA10364;s__UBA10364 sp002685435,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.011655313155701187,80000
+,species,0.9438596491228071,unclassified,ba05d392,1903c114_5m-1_interleaved.fq.gz,0.9390647006409704,0
