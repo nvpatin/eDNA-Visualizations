@@ -1,0 +1,477 @@
+query_name,rank,fraction,lineage,query_md5,query_filename,f_weighted_at_rank,bp_match_at_rank
+,superkingdom,0.04475777161057201,d__Bacteria,810d292a,1903c126_100m-2_interleaved.fq.gz,0.1215942350660689,62478000
+,superkingdom,0.0047789477002164885,d__Archaea,810d292a,1903c126_100m-2_interleaved.fq.gz,0.021660821828620478,6671000
+,superkingdom,0.004253127341655717,Eukaryota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0039866234592563,5937000
+,superkingdom,0.9462101533475558,unclassified,810d292a,1903c126_100m-2_interleaved.fq.gz,0.8527583196460543,1544000
+,phylum,0.010401070553056991,d__Bacteria;p__Proteobacteria,810d292a,1903c126_100m-2_interleaved.fq.gz,0.018071943297672418,14519000
+,phylum,0.007719673275001181,d__Bacteria;p__Actinobacteriota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.06690371554135036,10776000
+,phylum,0.005599198804510879,d__Bacteria;p__Planctomycetota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.005283437652594665,7816000
+,phylum,0.005547619695769223,d__Bacteria;p__Verrucomicrobiota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.012002189964635031,7744000
+,phylum,0.004489531590054975,d__Archaea;p__Thermoplasmatota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.02112783178704074,6267000
+,phylum,0.0035274379367210298,d__Bacteria;p__Latescibacterota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004226927686775869,4924000
+,phylum,0.0027995994022554397,d__Bacteria;p__SAR324,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004546248205856676,3908000
+,phylum,0.0026076104974948316,d__Bacteria;p__Chloroflexota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.003864103816161348,3640000
+,phylum,0.0024722153370479844,d__Bacteria;p__Acidobacteriota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002355987629659224,3451000
+,phylum,0.0021949776275615837,Eukaryota;Viridiplantae:Chlorophyta,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002199434752371229,3064000
+,phylum,0.002119041717469701,d__Bacteria;p__Gemmatimonadota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002687145795415871,2958000
+,phylum,0.0010143891385859015,d__Bacteria;p__Cyanobacteria,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000801704621121321,1416000
+,phylum,0.000993614219787179,Eukaryota;Haptophyta:Haptophyta,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0009351740873914265,1387000
+,phylum,0.0007966106794544649,Eukaryota;Stramenopila:Ochrophyta,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0006528462141726226,1112000
+,phylum,0.00039973809274783406,d__Bacteria;p__Myxococcota_A,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000295053343395333,558000
+,phylum,0.00028941611016151426,d__Archaea;p__Thermoproteota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005329900415797339,404000
+,phylum,0.00026792481485249093,Eukaryota;Unknown,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001991684053210222,374000
+,phylum,0.0002485826490743699,d__Bacteria;p__Poribacteria,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00018999422914724553,347000
+,phylum,0.0001819596336163976,d__Bacteria;p__Marinisomatota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00017223775913348426,254000
+,phylum,0.0001196348772202299,d__Bacteria;p__Nitrospinota,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001935455231499978,167000
+,phylum,0.9462101533475558,unclassified,810d292a,1903c126_100m-2_interleaved.fq.gz,0.8527583196460544,1544000
+,class,0.009448289794356957,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria,810d292a,1903c126_100m-2_interleaved.fq.gz,0.017332682262766165,13189000
+,class,0.0076645122837080215,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia,810d292a,1903c126_100m-2_interleaved.fq.gz,0.06685962030748285,10699000
+,class,0.005547619695769223,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.012002189964635031,7744000
+,class,0.004489531590054975,d__Archaea;p__Thermoplasmatota;c__Poseidoniia,810d292a,1903c126_100m-2_interleaved.fq.gz,0.02112783178704074,6267000
+,class,0.003864134896562395,d__Bacteria;p__Planctomycetota;c__Planctomycetia,810d292a,1903c126_100m-2_interleaved.fq.gz,0.003430845947825572,5394000
+,class,0.0035274379367210298,d__Bacteria;p__Latescibacterota;c__UBA2968,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004226927686775869,4924000
+,class,0.0027995994022554397,d__Bacteria;p__SAR324;c__SAR324,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004546248205856676,3908000
+,class,0.0025431366115677614,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia,810d292a,1903c126_100m-2_interleaved.fq.gz,0.003808466876784896,3550000
+,class,0.0022401093477105324,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0021112442846362143,3127000
+,class,0.0021949776275615837,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002199434752371229,3064000
+,class,0.002119041717469701,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002687145795415871,2958000
+,class,0.0010494915875906396,d__Bacteria;p__Planctomycetota;c__UBA8108,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0013580740148858407,1465000
+,class,0.0010143891385859015,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000801704621121321,1416000
+,class,0.000993614219787179,Eukaryota;Haptophyta:Haptophyta;Prymnesiophyceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0009351740873914265,1387000
+,class,0.0009527807587000345,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0007392610349062606,1330000
+,class,0.0007966106794544649,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0006528462141726226,1112000
+,class,0.0003560391256194866,d__Bacteria;p__Myxococcota_A;c__UBA796,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002574688151995383,497000
+,class,0.00032810044171775624,d__Bacteria;p__Planctomycetota;c__Phycisphaerae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00022965034551131235,458000
+,class,0.00028941611016151426,d__Archaea;p__Thermoproteota;c__Nitrososphaeria,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005329900415797339,404000
+,class,0.00026792481485249093,Eukaryota;Unknown;Unknown,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001991684053210222,374000
+,class,0.0002485826490743699,d__Bacteria;p__Poribacteria;c__WGA-4E,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00018999422914724553,347000
+,class,0.000232105989337452,d__Bacteria;p__Acidobacteriota;c__UBA890,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002447433450230094,324000
+,class,0.000206316434966624,d__Bacteria;p__Planctomycetota;c__GCA-002687715,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015270564211834688,288000
+,class,0.0001819596336163976,d__Bacteria;p__Marinisomatota;c__Marinisomatia,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00017223775913348426,254000
+,class,0.0001511554436734641,d__Bacteria;p__Planctomycetota;c__UBA1135,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00011216170225359199,211000
+,class,0.0001196348772202299,d__Bacteria;p__Nitrospinota;c__Nitrospinia,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001935455231499978,167000
+,class,6.447388592707e-05,d__Bacteria;p__Chloroflexota;c__UBA11872,810d292a,1903c126_100m-2_interleaved.fq.gz,5.5636939376451965e-05,90000
+,class,5.51609912931599e-05,d__Bacteria;p__Actinobacteriota;c__Actinomycetia,810d292a,1903c126_100m-2_interleaved.fq.gz,4.409523386750714e-05,77000
+,class,4.3698967128347446e-05,d__Bacteria;p__Myxococcota_A;c__UBA9160,810d292a,1903c126_100m-2_interleaved.fq.gz,3.758452819579468e-05,61000
+,class,0.9462101533475558,unclassified,810d292a,1903c126_100m-2_interleaved.fq.gz,0.8527583196460544,1544000
+,order,0.0076645122837080215,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.06685962030748285,10699000
+,order,0.0059545215536200655,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.013485743034284787,8312000
+,order,0.004489531590054975,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.02112783178704074,6267000
+,order,0.0032509166037449294,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0040153297524452135,4538000
+,order,0.0029443074573361964,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.009088945117710601,4110000
+,order,0.0028139269324614557,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0030194877258401033,3928000
+,order,0.0027995994022554397,d__Bacteria;p__SAR324;c__SAR324;o__SAR324,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004546248205856676,3908000
+,order,0.0022401093477105324,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0021112442846362143,3127000
+,order,0.002119041717469701,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002687145795415871,2958000
+,order,0.0020882375275267672,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Planctomycetales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.001894319409301431,2915000
+,order,0.0018203127126742763,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002258031103416641,2541000
+,order,0.0017758973690356283,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0015365265385241416,2479000
+,order,0.0015867739703162229,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Pseudoscourfieldiales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0017200100619996744,2215000
+,order,0.0012135418084495177,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA3495,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002161258341841642,1694000
+,order,0.001184170371527186,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00151581065684142,1653000
+,order,0.0010494915875906396,d__Bacteria;p__Planctomycetota;c__UBA8108;o__UBA8108,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0013580740148858407,1465000
+,order,0.0010143891385859015,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000801704621121321,1416000
+,order,0.000993614219787179,Eukaryota;Haptophyta:Haptophyta;Prymnesiophyceae;Isochrysidales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0009351740873914265,1387000
+,order,0.0007966106794544649,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0006528462141726226,1112000
+,order,0.0007829995257587502,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0006552137435077907,1093000
+,order,0.0006082036572453604,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Mamiellales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00047942469037155414,849000
+,order,0.0004498844484688885,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0003690386351193383,628000
+,order,0.00039973809274783406,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PS1,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005667273346058804,558000
+,order,0.0003560391256194866,d__Bacteria;p__Myxococcota_A;c__UBA796;o__UBA796,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002574688151995383,497000
+,order,0.00032810044171775624,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00022965034551131235,458000
+,order,0.00028941611016151426,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005329900415797339,404000
+,order,0.00027652133297610026,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA2968,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00021159793433065505,386000
+,order,0.00026792481485249093,Eukaryota;Unknown;Unknown;unassigned,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001991684053210222,374000
+,order,0.00025932829672888156,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00018496322931001315,362000
+,order,0.0002485826490743699,d__Bacteria;p__Poribacteria;c__WGA-4E;o__WGA-4E,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00018999422914724553,347000
+,order,0.000232105989337452,d__Bacteria;p__Acidobacteriota;c__UBA890;o__UBA890,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002447433450230094,324000
+,order,0.000206316434966624,d__Bacteria;p__Planctomycetota;c__GCA-002687715;o__GCA-002687715,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015270564211834688,288000
+,order,0.00020488368194602243,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015477723028661902,286000
+,order,0.0001833923866369991,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015300158328524288,256000
+,order,0.0001819596336163976,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00017223775913348426,254000
+,order,0.0001511554436734641,d__Bacteria;p__Planctomycetota;c__UBA1135;o__UBA1135,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00011216170225359199,211000
+,order,0.0001454244315910579,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00013139787810183335,203000
+,order,0.0001196348772202299,d__Bacteria;p__Nitrospinota;c__Nitrospinia;o__Nitrospinales,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001935455231499978,167000
+,order,9.671082889060501e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__SAR86,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010772258475015167,135000
+,order,6.447388592707e-05,d__Bacteria;p__Chloroflexota;c__UBA11872;o__UBA11872,810d292a,1903c126_100m-2_interleaved.fq.gz,5.5636939376451965e-05,90000
+,order,5.51609912931599e-05,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Nanopelagicales,810d292a,1903c126_100m-2_interleaved.fq.gz,4.409523386750714e-05,77000
+,order,4.3698967128347446e-05,d__Bacteria;p__Myxococcota_A;c__UBA9160;o__UBA9160,810d292a,1903c126_100m-2_interleaved.fq.gz,3.758452819579468e-05,61000
+,order,3.8684331556242006e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales,810d292a,1903c126_100m-2_interleaved.fq.gz,3.048194019029017e-05,54000
+,order,0.9462101533475558,unclassified,810d292a,1903c126_100m-2_interleaved.fq.gz,0.8527583196460544,1544000
+,family,0.0059545215536200655,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868,810d292a,1903c126_100m-2_interleaved.fq.gz,0.013485743034284787,8312000
+,family,0.004989562394244917,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1,810d292a,1903c126_100m-2_interleaved.fq.gz,0.061038753495805044,6965000
+,family,0.004450130881988432,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.021094094494014594,6212000
+,family,0.0032509166037449294,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__UBA8231,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0040153297524452135,4538000
+,family,0.002823956203605666,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1096,810d292a,1903c126_100m-2_interleaved.fq.gz,0.008947189298767406,3942000
+,family,0.0027995994022554397,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004546248205856676,3908000
+,family,0.0026749498894631045,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__TK06,810d292a,1903c126_100m-2_interleaved.fq.gz,0.005820866811677838,3734000
+,family,0.002119041717469701,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002687145795415871,2958000
+,family,0.0020882375275267672,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Planctomycetales;f__Planctomycetaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.001894319409301431,2915000
+,family,0.0016906485643098357,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0017966588242257439,2360000
+,family,0.0015681481810484027,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0020405143457480654,2189000
+,family,0.0015294638494921606,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Pseudoscourfieldiales;Pycnococcaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0016741391811307912,2135000
+,family,0.001419141866905841,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438,810d292a,1903c126_100m-2_interleaved.fq.gz,0.001348603897545168,1981000
+,family,0.0012135418084495177,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA3495;f__UBA3495,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002161258341841642,1694000
+,family,0.0010494915875906396,d__Bacteria;p__Planctomycetota;c__UBA8108;o__UBA8108;f__UBA8108,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0013580740148858407,1465000
+,family,0.0010143891385859015,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000801704621121321,1416000
+,family,0.0010136727620756007,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Pirellulaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0009313268522217783,1415000
+,family,0.0009284239573498081,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__UBA1151,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0012533108418046493,1296000
+,family,0.0009277075808395073,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0010621328479898196,1295000
+,family,0.0008009089385162696,Eukaryota;Haptophyta:Haptophyta;Prymnesiophyceae;Isochrysidales;Noelaerhabdaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0007552418579186458,1118000
+,family,0.0007593591009188245,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA823,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0007120344475518267,1060000
+,family,0.0007357186760788988,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0006238439798168124,1027000
+,family,0.0006232475639616768,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA1268,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005025081013894439,870000
+,family,0.0006082036572453604,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Mamiellales;Mamiellaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00047942469037155414,849000
+,family,0.0005910106209981417,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonodaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00048475163137568254,825000
+,family,0.00039973809274783406,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PS1;f__Thioglobaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005667273346058804,558000
+,family,0.0003560391256194866,d__Bacteria;p__Myxococcota_A;c__UBA796;o__UBA796;f__UBA2385,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002574688151995383,497000
+,family,0.00032810044171775624,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00022965034551131235,458000
+,family,0.00028941611016151426,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005329900415797339,404000
+,family,0.0002779540859967018,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Casp-alpha2,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002136695224989272,388000
+,family,0.00027652133297610026,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA2968;f__GCA-2709665,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00021159793433065505,386000
+,family,0.00026792481485249093,Eukaryota;Unknown;Unknown;unassigned;Unknown,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001991684053210222,374000
+,family,0.00025932829672888156,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00018496322931001315,362000
+,family,0.00025574641417737767,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__UBA1328,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002624998150367707,357000
+,family,0.0002521645316258738,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__DEV007,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00021751675766857549,352000
+,family,0.0002485826490743699,d__Bacteria;p__Poribacteria;c__WGA-4E;o__WGA-4E;f__UBA9662,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00018999422914724553,347000
+,family,0.000232105989337452,d__Bacteria;p__Acidobacteriota;c__UBA890;o__UBA890;f__UBA890,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002447433450230094,324000
+,family,0.000206316434966624,d__Bacteria;p__Planctomycetota;c__GCA-002687715;o__GCA-002687715;f__GCA-002687715,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015270564211834688,288000
+,family,0.00020560005845632323,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonadaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00016809458279693997,287000
+,family,0.00019557078731211234,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Alcanivoracaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00016069605362453945,273000
+,family,0.00019270528127090925,Eukaryota;Haptophyta:Haptophyta;Prymnesiophyceae;Isochrysidales;Isochrysidaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001799322294727808,269000
+,family,0.0001833923866369991,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015300158328524288,256000
+,family,0.00017193036247218667,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__UBA2165,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015536911262041105,240000
+,family,0.0001511554436734641,d__Bacteria;p__Planctomycetota;c__UBA1135;o__UBA1135;f__GCA-002686595,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00011216170225359199,211000
+,family,0.0001454244315910579,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202;f__UBA826,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00013139787810183335,203000
+,family,0.0001389770429983509,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA7805,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010269158491291931,194000
+,family,0.00012966414836444078,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366;f__GCA-2717185,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010032405557775114,181000
+,family,0.0001232167597717338,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__UBA1611,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00012163181959426466,172000
+,family,0.00012035125373053069,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1100,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001417558189431941,168000
+,family,0.0001196348772202299,d__Bacteria;p__Nitrospinota;c__Nitrospinia;o__Nitrospinales;f__Nitrospinaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001935455231499978,167000
+,family,9.671082889060501e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__SAR86;f__SAR86,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010772258475015167,135000
+,family,7.521953358158167e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366;f__UBA8366,810d292a,1903c126_100m-2_interleaved.fq.gz,5.445317470886788e-05,105000
+,family,6.447388592707e-05,d__Bacteria;p__Chloroflexota;c__UBA11872;o__UBA11872;f__UBA11872,810d292a,1903c126_100m-2_interleaved.fq.gz,5.5636939376451965e-05,90000
+,family,6.16083798858669e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA2999,810d292a,1903c126_100m-2_interleaved.fq.gz,5.0605939539219605e-05,86000
+,family,5.8742873844663785e-05,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__TCS55,810d292a,1903c126_100m-2_interleaved.fq.gz,5.0605939539219605e-05,82000
+,family,5.731012082406223e-05,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Pseudoscourfieldiales;Pyncnococcaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,4.587088086888327e-05,80000
+,family,5.51609912931599e-05,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Nanopelagicales;f__S36-B12,810d292a,1903c126_100m-2_interleaved.fq.gz,4.409523386750714e-05,77000
+,family,4.7280849679851334e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__JABJCN01,810d292a,1903c126_100m-2_interleaved.fq.gz,3.136976369097823e-05,66000
+,family,4.3698967128347446e-05,d__Bacteria;p__Myxococcota_A;c__UBA9160;o__UBA9160;f__SMWR01,810d292a,1903c126_100m-2_interleaved.fq.gz,3.758452819579468e-05,61000
+,family,3.940070806654278e-05,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,3.37372930261464e-05,55000
+,family,3.8684331556242006e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae,810d292a,1903c126_100m-2_interleaved.fq.gz,3.048194019029017e-05,54000
+,family,0.9462101533475558,unclassified,810d292a,1903c126_100m-2_interleaved.fq.gz,0.8527583196460544,1544000
+,genus,0.003288884558790872,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410,810d292a,1903c126_100m-2_interleaved.fq.gz,0.055811248723753724,4591000
+,genus,0.002823956203605666,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1096;g__UBA1096,810d292a,1903c126_100m-2_interleaved.fq.gz,0.008947189298767406,3942000
+,genus,0.002779540859967018,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__Thalassarchaeum,810d292a,1903c126_100m-2_interleaved.fq.gz,0.01495893816309318,3880000
+,genus,0.002345416694724747,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__TK06;g__UBA2110,810d292a,1903c126_100m-2_interleaved.fq.gz,0.005517823056776313,3274000
+,genus,0.0022358110886487276,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__UBA8231;g__UBA12574,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0031366804279309274,3121000
+,genus,0.0021605915550671462,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__REDSEA-S09-B13,810d292a,1903c126_100m-2_interleaved.fq.gz,0.008155250736153653,3016000
+,genus,0.0018002541703858546,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__Arctic96AD-7,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0036530977641644835,2513000
+,genus,0.0017594207092987103,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Planctomycetales;f__Planctomycetaceae;g__UBA8437,810d292a,1903c126_100m-2_interleaved.fq.gz,0.001641289711605333,2456000
+,genus,0.0017207363777424684,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__GCA-2726415,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00299965966765807,2402000
+,genus,0.0015681481810484027,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus_B,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0020405143457480654,2189000
+,genus,0.0014821829998123094,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Pseudoscourfieldiales;Pycnococcaceae;Prasinoderma,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0016341871235998283,2069000
+,genus,0.0013324603091594467,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA1138,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0018360189994229147,1860000
+,genus,0.0012500770104748571,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__S20-B6,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004691259377635726,1745000
+,genus,0.0011813048654859826,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__UBA868,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0013909234844112991,1649000
+,genus,0.0011003543198219948,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__UBA8438,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0010600612598215475,1536000
+,genus,0.0010588044822245498,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O1,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0050040691910448205,1478000
+,genus,0.0010559389761833466,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA3495;f__UBA3495;g__UBA9611,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00202453352273568,1474000
+,genus,0.0010494915875906396,d__Bacteria;p__Planctomycetota;c__UBA8108;o__UBA8108;f__UBA8108;g__UBA8108,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0013580740148858407,1465000
+,genus,0.0009749884305193586,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__UBA8231;g__GCA-2724215,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0008437282668205561,1361000
+,genus,0.0009470497466176283,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA9926,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0009706870274189492,1322000
+,genus,0.0009284239573498081,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__UBA1151;g__GCA-2730555,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0012533108418046493,1296000
+,genus,0.0009277075808395073,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0010621328479898196,1295000
+,genus,0.0008918887553244683,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__UBA11791,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0009399091460617629,1245000
+,genus,0.0007435988176922074,Eukaryota;Haptophyta:Haptophyta;Prymnesiophyceae;Isochrysidales;Noelaerhabdaceae;Emiliania,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0006969414480401296,1038000
+,genus,0.0006418733532294969,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA822,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0007206167413918113,896000
+,genus,0.0006232475639616768,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA1268;g__UBA1268,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005025081013894439,870000
+,genus,0.0006082036572453604,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Mamiellales;Mamiellaceae;Ostreococcus,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00047942469037155414,849000
+,genus,0.0005229548525195678,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Synechococcus_C,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0004329619271688788,730000
+,genus,0.0005165074639268608,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Pirellulaceae;g__SAT2750,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005386129237507583,721000
+,genus,0.0005122092048650561,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__UBA8110,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0004687708083632974,715000
+,genus,0.0004871360270045289,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__UBA1014,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0004243796333288942,680000
+,genus,0.00047567400283971646,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA823;g__UBA8106,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0004664032790281292,664000
+,genus,0.00045060082497918924,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__MedAcidi-G1,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005362453944155902,629000
+,genus,0.0004377060477937753,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O3,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0006842159778636007,611000
+,genus,0.0004291095296701659,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonodaceae;Pelagomonas,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00034062828309732026,599000
+,genus,0.0004283931531598651,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__GCA-2730975,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00037614122312484274,598000
+,genus,0.00039973809274783406,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PS1;f__Thioglobaceae;g__Pseudothioglobus,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005667273346058804,558000
+,genus,0.0003889924450933224,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA9659,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00036016040011245765,543000
+,genus,0.0003560391256194866,d__Bacteria;p__Myxococcota_A;c__UBA796;o__UBA796;f__UBA2385;g__BH17,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002574688151995383,497000
+,genus,0.000354606372598885,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA11889,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0004658113966943372,495000
+,genus,0.00034529347796497493,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Pirellulaceae;g__Mariniblastus,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002752252852132996,482000
+,genus,0.0003295331947383578,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__TK06;g__MedAcidi-G3,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0003030437549015256,460000
+,genus,0.00032881681822805704,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Planctomycetales;f__Planctomycetaceae;g__Fuerstia,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000253029697696098,459000
+,genus,0.0003116237819808384,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Prochlorococcus_C,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00024060016868646513,435000
+,genus,0.00028941611016151426,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopelagicus,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005329900415797339,404000
+,genus,0.00028368509807910803,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA823;g__UBA11600,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002456311685236975,396000
+,genus,0.0002779540859967018,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Casp-alpha2;g__UBA3470,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002136695224989272,388000
+,genus,0.00027652133297610026,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA2968;f__GCA-2709665;g__GCA-2709665,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00021159793433065505,386000
+,genus,0.00026792481485249093,Eukaryota;Unknown;Unknown;unassigned;Unknown;Unidentifiedeukaryote,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001991684053210222,374000
+,genus,0.00025574641417737767,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__UBA1328;g__GCA-002725925,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002624998150367707,357000
+,genus,0.0002521645316258738,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__DEV007;g__EC70,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00021751675766857549,352000
+,genus,0.000232105989337452,d__Bacteria;p__Acidobacteriota;c__UBA890;o__UBA890;f__UBA890;g__UBA890,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002447433450230094,324000
+,genus,0.000206316434966624,d__Bacteria;p__Planctomycetota;c__GCA-002687715;o__GCA-002687715;f__GCA-002687715;g__GCA-2683135,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015270564211834688,288000
+,genus,0.00020560005845632323,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonadaceae;Pelagomonas,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00016809458279693997,287000
+,genus,0.00019557078731211234,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Alcanivoracaceae;g__Alcanivorax,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00016069605362453945,273000
+,genus,0.00019270528127090925,Eukaryota;Haptophyta:Haptophyta;Prymnesiophyceae;Isochrysidales;Isochrysidaceae;Isochrysis,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001799322294727808,269000
+,genus,0.0001905561517400069,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__UBA2993,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015507317145351505,266000
+,genus,0.00017981050408549524,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Synechococcus_E,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00012814252526597712,251000
+,genus,0.000174079492003089,d__Bacteria;p__Poribacteria;c__WGA-4E;o__WGA-4E;f__UBA9662;g__GCA-2699335,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00012725470176528907,243000
+,genus,0.000174079492003089,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O5,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00044687116201299183,243000
+,genus,0.0001683484799206828,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__DTWD01,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00016631893579556383,235000
+,genus,0.00015760283226617111,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA3495;f__UBA3495;g__GCA-2707185,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00013672481910596173,220000
+,genus,0.00014828993763226102,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__JABAAC01,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00011334546692117607,207000
+,genus,0.00014470805508075713,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA2988,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001305100546011453,202000
+,genus,0.00013969341950865167,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas,810d292a,1903c126_100m-2_interleaved.fq.gz,9.67727615749989e-05,195000
+,genus,0.0001389770429983509,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA7805;g__UBA7805,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010269158491291931,194000
+,genus,0.00013611153695714778,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__UBA2165;g__GCA-2712665,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001222237019280567,190000
+,genus,0.00012966414836444078,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366;f__GCA-2717185;g__GCA-2717185,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010032405557775114,181000
+,genus,0.00012178400675113223,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Sulfitobacter,810d292a,1903c126_100m-2_interleaved.fq.gz,8.463917373226203e-05,170000
+,genus,0.00012035125373053069,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1100;g__JACNJL01,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001417558189431941,168000
+,genus,0.0001196348772202299,d__Bacteria;p__Nitrospinota;c__Nitrospinia;o__Nitrospinales;f__Nitrospinaceae;g__Nitromaritima,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001935455231499978,167000
+,genus,0.00011676937117902678,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04,810d292a,1903c126_100m-2_interleaved.fq.gz,9.262958523845459e-05,163000
+,genus,0.00011533661815842523,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonodaceae;Aureococcus,810d292a,1903c126_100m-2_interleaved.fq.gz,9.795652624258298e-05,161000
+,genus,0.00010530734701421435,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Pirellulaceae;g__UBA721,810d292a,1903c126_100m-2_interleaved.fq.gz,7.901629156123763e-05,147000
+,genus,0.0001002927114421089,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__SP202,810d292a,1903c126_100m-2_interleaved.fq.gz,6.303546854885249e-05,140000
+,genus,8.596518123609335e-05,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__UBA1611;g__GCA-2722105,810d292a,1903c126_100m-2_interleaved.fq.gz,8.878235006880632e-05,120000
+,genus,7.951779264338634e-05,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA12014,810d292a,1903c126_100m-2_interleaved.fq.gz,5.326941004128379e-05,111000
+,genus,7.736866311248401e-05,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202;f__UBA826;g__GCA-002712965,810d292a,1903c126_100m-2_interleaved.fq.gz,8.020005622882171e-05,108000
+,genus,7.665228660218323e-05,d__Bacteria;p__Planctomycetota;c__UBA1135;o__UBA1135;f__GCA-002686595;g__JABACD01,810d292a,1903c126_100m-2_interleaved.fq.gz,5.326941004128379e-05,107000
+,genus,7.593591009188245e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__R2A62,810d292a,1903c126_100m-2_interleaved.fq.gz,5.0901880706115627e-05,106000
+,genus,7.521953358158167e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366;f__UBA8366;g__UBA6544,810d292a,1903c126_100m-2_interleaved.fq.gz,5.445317470886788e-05,105000
+,genus,7.45031570712809e-05,d__Bacteria;p__Planctomycetota;c__UBA1135;o__UBA1135;f__GCA-002686595;g__GCA-2720975,810d292a,1903c126_100m-2_interleaved.fq.gz,5.8892292212308195e-05,104000
+,genus,7.45031570712809e-05,d__Bacteria;p__Poribacteria;c__WGA-4E;o__WGA-4E;f__UBA9662;g__UBA9662,810d292a,1903c126_100m-2_interleaved.fq.gz,6.273952738195646e-05,104000
+,genus,6.805576847857389e-05,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202;f__UBA826;g__UBA11996,810d292a,1903c126_100m-2_interleaved.fq.gz,5.119782187301165e-05,95000
+,genus,6.447388592707e-05,d__Bacteria;p__Chloroflexota;c__UBA11872;o__UBA11872;f__UBA11872;g__UBA11872,810d292a,1903c126_100m-2_interleaved.fq.gz,5.5636939376451965e-05,90000
+,genus,6.16083798858669e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA2999;g__UBA2999,810d292a,1903c126_100m-2_interleaved.fq.gz,5.0605939539219605e-05,86000
+,genus,6.16083798858669e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__CPC320,810d292a,1903c126_100m-2_interleaved.fq.gz,4.942217487163552e-05,86000
+,genus,6.0892003375566115e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__SAR86;f__SAR86;g__AEGEAN-183,810d292a,1903c126_100m-2_interleaved.fq.gz,7.635282105917344e-05,85000
+,genus,5.8742873844663785e-05,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__TCS55;g__TCS55,810d292a,1903c126_100m-2_interleaved.fq.gz,5.0605939539219605e-05,82000
+,genus,5.731012082406223e-05,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Pseudoscourfieldiales;Pyncnococcaceae;Pycnococcus,810d292a,1903c126_100m-2_interleaved.fq.gz,4.587088086888327e-05,80000
+,genus,5.731012082406223e-05,Eukaryota;Haptophyta:Haptophyta;Prymnesiophyceae;Isochrysidales;Noelaerhabdaceae;Gephyrocapsa,810d292a,1903c126_100m-2_interleaved.fq.gz,5.830040987851615e-05,80000
+,genus,5.51609912931599e-05,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Nanopelagicales;f__S36-B12;g__S36-B12,810d292a,1903c126_100m-2_interleaved.fq.gz,4.409523386750714e-05,77000
+,genus,5.444461478285912e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__UBA9620,810d292a,1903c126_100m-2_interleaved.fq.gz,5.1789704206803684e-05,76000
+,genus,5.372823827255834e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__UBA2990,810d292a,1903c126_100m-2_interleaved.fq.gz,3.9064234030274785e-05,75000
+,genus,4.7280849679851334e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__JABJCN01;g__JABJCN01,810d292a,1903c126_100m-2_interleaved.fq.gz,3.136976369097823e-05,66000
+,genus,4.7280849679851334e-05,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Pseudoscourfieldiales;Pycnococcaceae;Pycnococcus,810d292a,1903c126_100m-2_interleaved.fq.gz,3.995205753096284e-05,66000
+,genus,4.656447316955056e-05,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Pirellulaceae;g__UBA9264,810d292a,1903c126_100m-2_interleaved.fq.gz,3.847235169648274e-05,65000
+,genus,4.656447316955056e-05,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonodaceae;Pelagococcus,810d292a,1903c126_100m-2_interleaved.fq.gz,4.616682203577929e-05,65000
+,genus,4.3698967128347446e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pseudoalteromonas,810d292a,1903c126_100m-2_interleaved.fq.gz,5.6228821710244e-05,61000
+,genus,4.3698967128347446e-05,d__Bacteria;p__Myxococcota_A;c__UBA9160;o__UBA9160;f__SMWR01;g__JABSQX01,810d292a,1903c126_100m-2_interleaved.fq.gz,3.758452819579468e-05,61000
+,genus,4.2266214107745895e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__UBA2994,810d292a,1903c126_100m-2_interleaved.fq.gz,3.136976369097823e-05,59000
+,genus,4.011708457684356e-05,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__UBA8231;g__GCA-2725915,810d292a,1903c126_100m-2_interleaved.fq.gz,3.492105769373049e-05,56000
+,genus,3.940070806654278e-05,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-L1,810d292a,1903c126_100m-2_interleaved.fq.gz,3.37372930261464e-05,55000
+,genus,3.8684331556242006e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Qipengyuania,810d292a,1903c126_100m-2_interleaved.fq.gz,3.048194019029017e-05,54000
+,genus,3.725157853564045e-05,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__UBA1611;g__TMED80,810d292a,1903c126_100m-2_interleaved.fq.gz,3.284946952545834e-05,52000
+,genus,3.581882551503889e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__SAR86;f__SAR86;g__GCA-2730855,810d292a,1903c126_100m-2_interleaved.fq.gz,3.136976369097823e-05,50000
+,genus,3.581882551503889e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__UBA2165;g__TMED23,810d292a,1903c126_100m-2_interleaved.fq.gz,3.314541069235436e-05,50000
+,genus,0.9462101533475558,unclassified,810d292a,1903c126_100m-2_interleaved.fq.gz,0.8527583196460544,1544000
+,species,0.0022358110886487276,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__UBA8231;g__UBA12574;s__UBA12574 sp002712305,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0031366804279309274,3121000
+,species,0.0017909412757519446,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__TK06;g__UBA2110;s__UBA2110 sp014239555,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004932155487489087,2500000
+,species,0.0015839084642750199,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410;s__UBA9410 sp014237715,810d292a,1903c126_100m-2_interleaved.fq.gz,0.04433938533019636,2211000
+,species,0.0015373439911054692,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1096;g__UBA1096;s__UBA1096 sp018674955,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0048259126085734155,2146000
+,species,0.0014821829998123094,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Pseudoscourfieldiales;Pycnococcaceae;Prasinoderma;Prasinoderma singularis,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0016341871235998283,2069000
+,species,0.0013818902883702005,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__GCA-2726415;s__GCA-2726415 sp014239255,810d292a,1903c126_100m-2_interleaved.fq.gz,0.002597771563013273,1929000
+,species,0.0013167000259328297,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus_B;s__Roseibacillus_B sp014240355,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0017590742960299493,1838000
+,species,0.0012565243990675643,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Planctomycetales;f__Planctomycetaceae;g__UBA8437;s__UBA8437 sp003445035,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0011594974918986106,1754000
+,species,0.0012099599258980137,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__S20-B6;s__S20-B6 sp002699725,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004551575146860804,1689000
+,species,0.0011003543198219948,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__UBA8438;s__UBA8438 sp002712885,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0010600612598215475,1536000
+,species,0.0010688337533687605,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__REDSEA-S09-B13;s__REDSEA-S09-B13 sp002456995,810d292a,1903c126_100m-2_interleaved.fq.gz,0.005246445006732662,1492000
+,species,0.0009284239573498081,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__UBA1151;g__GCA-2730555;s__GCA-2730555 sp014239685,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0012533108418046493,1296000
+,species,0.0008517716707476248,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__UBA868;s__UBA868 sp018661145,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0010325387313002176,1189000
+,species,0.0008388768935622109,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__Thalassarchaeum;s__Thalassarchaeum sp014240285,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004569627558041462,1171000
+,species,0.000835295011010707,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA3495;f__UBA3495;g__UBA9611;s__UBA9611 sp012959605,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0018274367055829302,1166000
+,species,0.0008274148693973984,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA9926;s__UBA9926 sp002697205,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0008585253251653572,1155000
+,species,0.0008080727036192774,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__Arctic96AD-7;s__Arctic96AD-7 sp002082305,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0018490404107663397,1128000
+,species,0.0007751193841454416,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410;s__UBA9410 sp003541675,810d292a,1903c126_100m-2_interleaved.fq.gz,0.005617555230020272,1082000
+,species,0.0007701047485733362,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA1138;s__UBA1138 sp002501085,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0010727867299980764,1075000
+,species,0.0007572099713879221,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__REDSEA-S09-B13;s__REDSEA-S09-B13 sp002731295,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0018795223509566299,1057000
+,species,0.0007435988176922074,Eukaryota;Haptophyta:Haptophyta;Prymnesiophyceae;Isochrysidales;Noelaerhabdaceae;Emiliania;Emiliania huxleyi,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0006969414480401296,1038000
+,species,0.0007199583928522818,d__Bacteria;p__Planctomycetota;c__UBA8108;o__UBA8108;f__UBA8108;g__UBA8108;s__UBA8108 sp002320775,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0009514508515707078,1005000
+,species,0.0006891542029093483,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1096;g__UBA1096;s__UBA1096 sp015658765,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0025501250351430134,962000
+,species,0.0006769758022342351,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__Thalassarchaeum;s__Thalassarchaeum sp002457605,810d292a,1903c126_100m-2_interleaved.fq.gz,0.004896050665127772,945000
+,species,0.0006339932116161883,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__UBA11791;s__UBA11791 sp012960345,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0006697148606856956,885000
+,species,0.0006332768351058877,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__UBA8231;g__GCA-2724215;s__GCA-2724215 sp018672475,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005537059232624555,884000
+,species,0.0006282621995337822,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__Arctic96AD-7;s__Arctic96AD-7 sp002685535,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0011704473150737633,877000
+,species,0.0006082036572453604,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Mamiellales;Mamiellaceae;Ostreococcus;Ostreococcus lucimarinus,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00047942469037155414,849000
+,species,0.0005996071391217511,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145;s__UBA9145 sp002712055,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0007786212101034315,837000
+,species,0.0005917269975084425,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O1;s__MGIIb-O1 sp8684u,810d292a,1903c126_100m-2_interleaved.fq.gz,0.003666415116674805,826000
+,species,0.0005494607834006966,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__Thalassarchaeum;s__Thalassarchaeum sp002505325,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0024086651573667155,767000
+,species,0.0005165074639268608,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Pirellulaceae;g__SAT2750;s__SAT2750 sp002708345,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005386129237507583,721000
+,species,0.0004871360270045289,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__UBA1014;s__UBA1014 sp002683785,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0004243796333288942,680000
+,species,0.0004498844484688885,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA822;s__UBA822 sp002731735,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00048475163137568254,628000
+,species,0.0004398551773246776,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__UBA8110;s__UBA8110 sp002707655,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00039952057530962844,614000
+,species,0.0004291095296701659,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonodaceae;Pelagomonas;Pelagomonas calceolata,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00034062828309732026,599000
+,species,0.00035675550212978734,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Planctomycetales;f__Planctomycetaceae;g__UBA8437;s__UBA8437 sp002724415,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0003711102232876104,498000
+,species,0.0003560391256194866,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA1268;g__UBA1268;s__UBA1268 sp016776925,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00029416551989464495,497000
+,species,0.0003560391256194866,d__Bacteria;p__Myxococcota_A;c__UBA796;o__UBA796;f__UBA2385;g__BH17;s__BH17 sp016845285,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002574688151995383,497000
+,species,0.00034529347796497493,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Pirellulaceae;g__Mariniblastus;s__Mariniblastus sp014237975,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002752252852132996,482000
+,species,0.00034171159541347105,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__UBA8231;g__GCA-2724215;s__GCA-2724215 sp015660315,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00029002234355810067,477000
+,species,0.0003295331947383578,d__Bacteria;p__Planctomycetota;c__UBA8108;o__UBA8108;f__UBA8108;g__UBA8108;s__UBA8108 sp002708465,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00040662316331513296,460000
+,species,0.00032881681822805704,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Planctomycetales;f__Planctomycetaceae;g__Fuerstia;s__Fuerstia sp014238335,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000253029697696098,459000
+,species,0.0003230858061456508,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__MedAcidi-G1;s__MedAcidi-G1 sp002729765,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00039093828146964383,451000
+,species,0.00031592204104264303,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__Thalassarchaeum;s__Thalassarchaeum sp004195715,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0016643731226232226,441000
+,species,0.00031305653500143994,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Synechococcus_C;s__Synechococcus_C sp003210315,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00028558322605466035,437000
+,species,0.00030875827593963525,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__TK06;g__UBA2110;s__UBA2110 sp002331465,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00035305781210695313,431000
+,species,0.00030446001687783056,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410;s__UBA9410 sp002714485,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0008895991476894394,425000
+,species,0.0002980126282851236,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA823;g__UBA8106;s__UBA8106 sp002696705,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00029594116689602107,416000
+,species,0.00028798335714091267,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__UBA868;s__UBA868 sp002171735,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000308962578239446,402000
+,species,0.0002858342276100104,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA9659;s__UBA9659 sp012961165,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00025628505053195425,399000
+,species,0.0002851178510997096,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA1138;s__UBA1138 sp002313925,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0003870910462999956,398000
+,species,0.00027652133297610026,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA2968;f__GCA-2709665;g__GCA-2709665;s__GCA-2709665 sp002709665,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00021159793433065505,386000
+,species,0.0002686411913627917,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O1;s__MGIIb-O1 sp002497895,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0011195454343676478,375000
+,species,0.00026792481485249093,Eukaryota;Unknown;Unknown;unassigned;Unknown;Unidentifiedeukaryote;Unidentifiedeukaryote sp.,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001991684053210222,374000
+,species,0.00024213526048166292,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1096;g__UBA1096;s__UBA1096 sp003972865,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0006848078601973928,338000
+,species,0.0002356878718889559,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Prochlorococcus_C;s__Prochlorococcus_C sp000760295,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00018525917047690918,329000
+,species,0.00023210598933745202,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O3;s__MGIIb-O3 sp014239955,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0003770290466255308,324000
+,species,0.0002206439651726396,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA3495;f__UBA3495;g__UBA9611;s__UBA9611 sp002697005,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00019709681715275005,308000
+,species,0.00021562932960053413,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1096;g__UBA1096;s__UBA1096 sp002299785,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005954336277947944,301000
+,species,0.0002134802000696318,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__REDSEA-S09-B13;s__REDSEA-S09-B13 sp001629395,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0005877391574554979,298000
+,species,0.00020918194100782712,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410;s__UBA9410 sp002717365,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0025743922108284875,292000
+,species,0.000206316434966624,d__Bacteria;p__Planctomycetota;c__GCA-002687715;o__GCA-002687715;f__GCA-002687715;g__GCA-2683135;s__GCA-2683135 sp002683135,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015270564211834688,288000
+,species,0.00020560005845632323,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonadaceae;Pelagomonas;Pelagomonas calceolata,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00016809458279693997,287000
+,species,0.00019915266986361623,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__GCA-2730975;s__GCA-2730975 sp018695085,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00016927834746452406,278000
+,species,0.00019843629335331546,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O1;s__MGIIb-O1 sp002457595,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00021810864000236754,277000
+,species,0.0001970035403327139,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__GCA-2726415;s__GCA-2726415 sp018698075,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00022521122800787203,275000
+,species,0.0001970035403327139,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__TK06;g__MedAcidi-G3;s__MedAcidi-G3 sp004214275,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001725337003003803,275000
+,species,0.0001941380342915108,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA11889;s__UBA11889 sp002313255,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002740415205457155,271000
+,species,0.00019270528127090925,Eukaryota;Haptophyta:Haptophyta;Prymnesiophyceae;Isochrysidales;Isochrysidaceae;Isochrysis;Isochrysis sp.,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001799322294727808,269000
+,species,0.00019198890476060845,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA822;s__UBA822 sp002712565,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00023586511001612878,268000
+,species,0.00018554151616790145,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__Arctic96AD-7;s__Arctic96AD-7 sp902513935,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002835116378863882,259000
+,species,0.0001841087631472999,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA823;g__UBA11600;s__UBA11600 sp002714165,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00016040011245764343,257000
+,species,0.0001776613745545929,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA823;g__UBA8106;s__UBA8106 sp003509065,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00017046211213210815,248000
+,species,0.000174079492003089,d__Bacteria;p__Poribacteria;c__WGA-4E;o__WGA-4E;f__UBA9662;g__GCA-2699335;s__GCA-2699335 sp002699335,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00012725470176528907,243000
+,species,0.0001712139859618859,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__Thalassarchaeum;s__Thalassarchaeum sp002495735,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0010283955549636732,239000
+,species,0.0001683484799206828,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__DTWD01;s__DTWD01 sp012963185,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00016631893579556383,235000
+,species,0.00016691572690008123,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus_B;s__Roseibacillus_B sp002501065,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001894023468134535,233000
+,species,0.00016405022085887812,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410;s__UBA9410 sp012961035,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00041195010431926136,229000
+,species,0.000161184714817675,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__UBA11791;s__UBA11791 sp002714255,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00017371746496796438,225000
+,species,0.00015760283226617111,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA3495;f__UBA3495;g__GCA-2707185;s__GCA-2707185 sp002707185,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00013672481910596173,220000
+,species,0.00015688645575587034,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__Thalassarchaeum;s__Thalassarchaeum sp002507125,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000337076989094568,219000
+,species,0.00015402094971466723,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Alcanivoracaceae;g__Alcanivorax;s__Alcanivorax venustensis,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00013376540743700153,215000
+,species,0.00014972269065286257,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Casp-alpha2;g__UBA3470;s__UBA3470 sp018665815,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010979417291842381,209000
+,species,0.00014828993763226102,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__JABAAC01;s__JABAAC01 sp014238965,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00011334546692117607,207000
+,species,0.00014614080810135868,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Planctomycetales;f__Planctomycetaceae;g__UBA8437;s__UBA8437 sp002724315,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00011068199641911189,204000
+,species,0.00014470805508075713,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA2988;s__UBA2988 sp002346665,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001305100546011453,202000
+,species,0.00014399167857045633,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__UBA1328;g__GCA-002725925;s__GCA-002725925 sp009392785,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001488584069486986,201000
+,species,0.00014399167857045633,d__Bacteria;p__Acidobacteriota;c__UBA890;o__UBA890;f__UBA890;g__UBA890;s__UBA890 sp002722645,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001488584069486986,201000
+,species,0.00014327530206015556,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PS1;f__Thioglobaceae;g__Pseudothioglobus;s__Pseudothioglobus sp000213395,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00024622305085748956,200000
+,species,0.00014184254903955402,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__GCA-2726415;s__GCA-2726415 sp014239575,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00017667687663692458,198000
+,species,0.00014112617252925324,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O3;s__MGIIb-O3 sp002457155,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00021248575783134314,197000
+,species,0.0001389770429983509,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA7805;g__UBA7805;s__UBA7805 sp002168195,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010269158491291931,194000
+,species,0.00013611153695714778,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__UBA2165;g__GCA-2712665;s__GCA-2712665 sp002938035,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001222237019280567,190000
+,species,0.00013467878393654624,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145;s__UBA9145 sp002457215,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00011630487859013628,188000
+,species,0.00013396240742624547,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__DEV007;g__EC70;s__EC70 sp013213965,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010861040825083973,187000
+,species,0.00013109690138504235,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__Arctic96AD-7;s__Arctic96AD-7 sp905182865,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002772968733815717,183000
+,species,0.00012966414836444078,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366;f__GCA-2717185;g__GCA-2717185;s__GCA-2717185 sp002717185,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010032405557775114,181000
+,species,0.00012823139534383924,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Casp-alpha2;g__UBA3470;s__UBA3470 sp002378125,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001038753495805034,179000
+,species,0.00012823139534383924,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__TK06;g__UBA2110;s__UBA2110 sp012960315,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00015063405395007474,179000
+,species,0.00012464951279233535,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__UBA2993;s__UBA2993 sp002721705,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010091593791154318,174000
+,species,0.00012106763024083146,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__REDSEA-S09-B13;s__REDSEA-S09-B13 sp003447825,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00044154422100886343,169000
+,species,0.00012106763024083146,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA1138;s__UBA1138 sp002724575,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00021988428700374366,169000
+,species,0.0001196348772202299,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA9926;s__UBA9926 sp012960535,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00011216170225359199,167000
+,species,0.0001196348772202299,d__Bacteria;p__Nitrospinota;c__Nitrospinia;o__Nitrospinales;f__Nitrospinaceae;g__Nitromaritima;s__Nitromaritima sp000372225,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001935455231499978,167000
+,species,0.00011820212419962834,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopelagicus;s__Nitrosopelagicus sp000402075,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002556931681981622,165000
+,species,0.00011748574768932757,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA1268;g__UBA1268;s__UBA1268 sp002862165,810d292a,1903c126_100m-2_interleaved.fq.gz,9.351740873914266e-05,164000
+,species,0.00011748574768932757,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__TK06;g__UBA2110;s__UBA2110 sp002705305,810d292a,1903c126_100m-2_interleaved.fq.gz,8.197570323019784e-05,164000
+,species,0.00011676937117902678,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04;s__MB11C04 sp018645725,810d292a,1903c126_100m-2_interleaved.fq.gz,9.262958523845459e-05,163000
+,species,0.00011533661815842523,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonodaceae;Aureococcus;Aureococcus anophagefferens,810d292a,1903c126_100m-2_interleaved.fq.gz,9.795652624258298e-05,161000
+,species,0.00010745647654511668,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145;s__UBA9145 sp002694855,810d292a,1903c126_100m-2_interleaved.fq.gz,9.914029091016705e-05,150000
+,species,0.00010745647654511668,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410;s__UBA9410 sp014240365,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00039005045796895575,150000
+,species,0.00010530734701421435,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Pirellulaceae;g__UBA721;s__UBA721 sp018658605,810d292a,1903c126_100m-2_interleaved.fq.gz,7.901629156123763e-05,147000
+,species,0.00010387459399361279,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O5;s__MGIIb-O5 sp002497985,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0002361610511830248,145000
+,species,0.00010244184097301123,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Synechococcus_C;s__Synechococcus_C sp000014585,810d292a,1903c126_100m-2_interleaved.fq.gz,7.487311522469333e-05,143000
+,species,0.0001002927114421089,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__SP202;s__SP202 sp014238205,810d292a,1903c126_100m-2_interleaved.fq.gz,6.303546854885249e-05,140000
+,species,0.0001002927114421089,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410;s__UBA9410 sp014239855,810d292a,1903c126_100m-2_interleaved.fq.gz,0.001251239253636377,140000
+,species,9.957633493180811e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA11889;s__UBA11889 sp002719135,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00013406134860389756,139000
+,species,9.957633493180811e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas;s__Alteromonas naphthalenivorans,810d292a,1903c126_100m-2_interleaved.fq.gz,6.925023305366894e-05,139000
+,species,9.671082889060501e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__UBA11791;s__UBA11791 sp905612355,810d292a,1903c126_100m-2_interleaved.fq.gz,9.647682040810287e-05,135000
+,species,9.241256982880034e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__GCA-2730975;s__GCA-2730975 sp905612515,810d292a,1903c126_100m-2_interleaved.fq.gz,8.227164439709386e-05,129000
+,species,9.169619331849957e-05,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA1138;s__UBA1138 sp012960225,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010979417291842381,128000
+,species,8.811431076699568e-05,d__Bacteria;p__Acidobacteriota;c__UBA890;o__UBA890;f__UBA890;g__UBA890;s__UBA890 sp002731215,810d292a,1903c126_100m-2_interleaved.fq.gz,9.588493807431082e-05,123000
+,species,8.596518123609335e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145;s__UBA9145 sp012960305,810d292a,1903c126_100m-2_interleaved.fq.gz,6.806646838608485e-05,120000
+,species,8.596518123609335e-05,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__UBA1611;g__GCA-2722105;s__GCA-2722105 sp018692355,810d292a,1903c126_100m-2_interleaved.fq.gz,8.878235006880632e-05,120000
+,species,8.453242821549179e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Roseibacillus_B;s__Roseibacillus_B sp003483645,810d292a,1903c126_100m-2_interleaved.fq.gz,9.203770290466255e-05,118000
+,species,8.309967519489023e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__GCA-2730975;s__GCA-2730975 sp002730975,810d292a,1903c126_100m-2_interleaved.fq.gz,7.694470339296548e-05,116000
+,species,8.309967519489023e-05,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Synechococcus_E;s__Synechococcus_E sp003208835,810d292a,1903c126_100m-2_interleaved.fq.gz,5.6228821710244e-05,116000
+,species,8.166692217428867e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1096;g__UBA1096;s__UBA1096 sp014382705,810d292a,1903c126_100m-2_interleaved.fq.gz,0.0001769728178038206,114000
+,species,7.951779264338634e-05,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA12014;s__UBA12014 sp014237965,810d292a,1903c126_100m-2_interleaved.fq.gz,5.326941004128379e-05,111000
+,species,7.880141613308556e-05,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__TK06;g__MedAcidi-G3;s__MedAcidi-G3 sp002457435,810d292a,1903c126_100m-2_interleaved.fq.gz,7.309746822331721e-05,110000
+,species,7.880141613308556e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Sulfitobacter;s__Sulfitobacter pontiacus,810d292a,1903c126_100m-2_interleaved.fq.gz,5.415723354197186e-05,110000
+,species,7.736866311248401e-05,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202;f__UBA826;g__GCA-002712965;s__GCA-002712965 sp009391195,810d292a,1903c126_100m-2_interleaved.fq.gz,8.020005622882171e-05,108000
+,species,7.665228660218323e-05,d__Bacteria;p__Planctomycetota;c__UBA1135;o__UBA1135;f__GCA-002686595;g__JABACD01;s__JABACD01 sp014237855,810d292a,1903c126_100m-2_interleaved.fq.gz,5.326941004128379e-05,107000
+,species,7.593591009188245e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__R2A62;s__R2A62 sp000161835,810d292a,1903c126_100m-2_interleaved.fq.gz,5.0901880706115627e-05,106000
+,species,7.593591009188245e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PS1;f__Thioglobaceae;g__Pseudothioglobus;s__Pseudothioglobus singularis,810d292a,1903c126_100m-2_interleaved.fq.gz,6.569893905091668e-05,106000
+,species,7.593591009188245e-05,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Prochlorococcus_C;s__Prochlorococcus_C marinus_B,810d292a,1903c126_100m-2_interleaved.fq.gz,5.534099820955594e-05,106000
+,species,7.521953358158167e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA8366;f__UBA8366;g__UBA6544;s__UBA6544 sp018665505,810d292a,1903c126_100m-2_interleaved.fq.gz,5.445317470886788e-05,105000
+,species,7.521953358158167e-05,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopelagicus;s__Nitrosopelagicus sp013390785,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010742664358325564,105000
+,species,7.45031570712809e-05,d__Bacteria;p__Planctomycetota;c__UBA1135;o__UBA1135;f__GCA-002686595;g__GCA-2720975;s__GCA-2720975 sp002720975,810d292a,1903c126_100m-2_interleaved.fq.gz,5.8892292212308195e-05,104000
+,species,7.45031570712809e-05,d__Bacteria;p__Poribacteria;c__WGA-4E;o__WGA-4E;f__UBA9662;g__UBA9662;s__UBA9662 sp002697225,810d292a,1903c126_100m-2_interleaved.fq.gz,6.273952738195646e-05,104000
+,species,7.307040405067934e-05,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__UBA1328;g__GCA-002725925;s__GCA-002725925 sp002687335,810d292a,1903c126_100m-2_interleaved.fq.gz,6.59948802178127e-05,102000
+,species,7.235402754037857e-05,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__UBA8110;s__UBA8110 sp002726945,810d292a,1903c126_100m-2_interleaved.fq.gz,6.925023305366894e-05,101000
+,species,7.020489800947622e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PS1;f__Thioglobaceae;g__Pseudothioglobus;s__Pseudothioglobus sp902606745,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00010476317308119146,98000
+,species,7.020489800947622e-05,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__Thalassarchaeum;s__Thalassarchaeum sp002698225,810d292a,1903c126_100m-2_interleaved.fq.gz,5.47491158757639e-05,98000
+,species,7.020489800947622e-05,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O5;s__MGIIb-O5 sp002726275,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000210710110829967,98000
+,species,6.948852149917545e-05,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__MedAcidi-G1;s__MedAcidi-G1 sp002299135,810d292a,1903c126_100m-2_interleaved.fq.gz,8.020005622882171e-05,97000
+,species,6.877214498887468e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1100;g__JACNJL01;s__JACNJL01 sp015660155,810d292a,1903c126_100m-2_interleaved.fq.gz,6.954617422056495e-05,96000
+,species,6.805576847857389e-05,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__SAR202;f__UBA826;g__UBA11996;s__UBA11996 sp002500485,810d292a,1903c126_100m-2_interleaved.fq.gz,5.119782187301165e-05,95000
+,species,6.590663894767156e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__UBA2993;s__UBA2993 sp002716045,810d292a,1903c126_100m-2_interleaved.fq.gz,5.415723354197186e-05,92000
+,species,6.447388592707e-05,d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Longimicrobiales;f__UBA6960;g__UBA1138;s__UBA1138 sp009937285,810d292a,1903c126_100m-2_interleaved.fq.gz,4.646276320267531e-05,90000
+,species,6.447388592707e-05,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Thalassarchaeaceae;g__MGIIb-O3;s__MGIIb-O3 sp004195615,810d292a,1903c126_100m-2_interleaved.fq.gz,9.470117340672675e-05,90000
+,species,6.447388592707e-05,d__Bacteria;p__Chloroflexota;c__UBA11872;o__UBA11872;f__UBA11872;g__UBA11872;s__UBA11872 sp002433065,810d292a,1903c126_100m-2_interleaved.fq.gz,5.5636939376451965e-05,90000
+,species,6.304113290646845e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__DEV007;g__EC70;s__EC70 sp902591645,810d292a,1903c126_100m-2_interleaved.fq.gz,5.8892292212308195e-05,88000
+,species,6.16083798858669e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA2999;g__UBA2999;s__UBA2999 sp002346475,810d292a,1903c126_100m-2_interleaved.fq.gz,5.0605939539219605e-05,86000
+,species,6.16083798858669e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__CPC320;s__CPC320 sp002684375,810d292a,1903c126_100m-2_interleaved.fq.gz,4.942217487163552e-05,86000
+,species,6.0892003375566115e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA11889;s__UBA11889 sp002715785,810d292a,1903c126_100m-2_interleaved.fq.gz,5.770852754472411e-05,85000
+,species,6.0892003375566115e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__SAR86;f__SAR86;g__AEGEAN-183;s__AEGEAN-183 sp001628005,810d292a,1903c126_100m-2_interleaved.fq.gz,7.635282105917344e-05,85000
+,species,5.9459250354964564e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA823;g__UBA11600;s__UBA11600 sp002720285,810d292a,1903c126_100m-2_interleaved.fq.gz,4.91262337047395e-05,83000
+,species,5.8742873844663785e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PS1;f__Thioglobaceae;g__Pseudothioglobus;s__Pseudothioglobus sp002698045,810d292a,1903c126_100m-2_interleaved.fq.gz,8.523105606605407e-05,82000
+,species,5.8742873844663785e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA9659;s__UBA9659 sp018665025,810d292a,1903c126_100m-2_interleaved.fq.gz,6.895429188677291e-05,82000
+,species,5.8742873844663785e-05,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__TCS55;g__TCS55;s__TCS55 sp002715035,810d292a,1903c126_100m-2_interleaved.fq.gz,5.0605939539219605e-05,82000
+,species,5.8026497334363006e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1096;g__UBA1096;s__UBA1096 sp002686755,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00011393734925496812,81000
+,species,5.8026497334363006e-05,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__MedAcidi-G1;s__MedAcidi-G1 sp002716285,810d292a,1903c126_100m-2_interleaved.fq.gz,6.510705671712463e-05,81000
+,species,5.731012082406223e-05,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Pseudoscourfieldiales;Pyncnococcaceae;Pycnococcus;Pycnococcus sp,810d292a,1903c126_100m-2_interleaved.fq.gz,4.587088086888327e-05,80000
+,species,5.731012082406223e-05,Eukaryota;Haptophyta:Haptophyta;Prymnesiophyceae;Isochrysidales;Noelaerhabdaceae;Gephyrocapsa;Gephyrocapsa oceanica,810d292a,1903c126_100m-2_interleaved.fq.gz,5.830040987851615e-05,80000
+,species,5.659374431376145e-05,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Synechococcus_C;s__Synechococcus_C sp002500205,810d292a,1903c126_100m-2_interleaved.fq.gz,4.202364569923499e-05,79000
+,species,5.51609912931599e-05,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA1268;g__UBA1268;s__UBA1268 sp003509235,810d292a,1903c126_100m-2_interleaved.fq.gz,3.817641052958672e-05,77000
+,species,5.51609912931599e-05,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Nanopelagicales;f__S36-B12;g__S36-B12;s__S36-B12 sp002729215,810d292a,1903c126_100m-2_interleaved.fq.gz,4.409523386750714e-05,77000
+,species,5.51609912931599e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__DEV007;g__EC70;s__EC70 sp012960505,810d292a,1903c126_100m-2_interleaved.fq.gz,5.001405720542756e-05,77000
+,species,5.444461478285912e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__UBA9620;s__UBA9620 sp003533545,810d292a,1903c126_100m-2_interleaved.fq.gz,5.1789704206803684e-05,76000
+,species,5.372823827255834e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__GCA-2730975;s__GCA-2730975 sp014382645,810d292a,1903c126_100m-2_interleaved.fq.gz,4.764652787025939e-05,75000
+,species,5.372823827255834e-05,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__TK06;g__MedAcidi-G3;s__MedAcidi-G3 sp002708935,810d292a,1903c126_100m-2_interleaved.fq.gz,5.741258637782809e-05,75000
+,species,5.372823827255834e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__UBA2990;s__UBA2990 sp002347025,810d292a,1903c126_100m-2_interleaved.fq.gz,3.9064234030274785e-05,75000
+,species,5.372823827255834e-05,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA1268;g__UBA1268;s__UBA1268 sp018694455,810d292a,1903c126_100m-2_interleaved.fq.gz,4.49830573681952e-05,75000
+,species,5.229548525195678e-05,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopelagicus;s__Nitrosopelagicus sp013390745,810d292a,1903c126_100m-2_interleaved.fq.gz,5.7116645210932066e-05,73000
+,species,5.229548525195678e-05,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Synechococcus_E;s__Synechococcus_E sp000012505,810d292a,1903c126_100m-2_interleaved.fq.gz,3.610482236131457e-05,73000
+,species,5.1579108741656e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA1100;g__JACNJL01;s__JACNJL01 sp014239365,810d292a,1903c126_100m-2_interleaved.fq.gz,7.220964472262914e-05,72000
+,species,5.1579108741656e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PS1;f__Thioglobaceae;g__Pseudothioglobus;s__Pseudothioglobus sp000372785,810d292a,1903c126_100m-2_interleaved.fq.gz,6.481111555022862e-05,72000
+,species,5.086273223135523e-05,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Synechococcus_C;s__Synechococcus_C sp003210755,810d292a,1903c126_100m-2_interleaved.fq.gz,3.048194019029017e-05,71000
+,species,4.7280849679851334e-05,d__Bacteria;p__SAR324;c__SAR324;o__SAR324;f__NAC60-12;g__Arctic96AD-7;s__Arctic96AD-7 sp018645085,810d292a,1903c126_100m-2_interleaved.fq.gz,7.280152705642118e-05,66000
+,species,4.7280849679851334e-05,d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__JABJCN01;g__JABJCN01;s__JABJCN01 sp018668635,810d292a,1903c126_100m-2_interleaved.fq.gz,3.136976369097823e-05,66000
+,species,4.7280849679851334e-05,Eukaryota;Viridiplantae:Chlorophyta;Prasinophyceae;Pseudoscourfieldiales;Pycnococcaceae;Pycnococcus;Pycnococcus provasolii,810d292a,1903c126_100m-2_interleaved.fq.gz,3.995205753096284e-05,66000
+,species,4.656447316955056e-05,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Pirellulaceae;g__UBA9264;s__UBA9264 sp002724245,810d292a,1903c126_100m-2_interleaved.fq.gz,3.847235169648274e-05,65000
+,species,4.656447316955056e-05,Eukaryota;Stramenopila:Ochrophyta;Pelagophyceae;Pelagomonadales;Pelagomonodaceae;Pelagococcus;Pelagococcus subviridis,810d292a,1903c126_100m-2_interleaved.fq.gz,4.616682203577929e-05,65000
+,species,4.4415343638648225e-05,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410;s__UBA9410 sp016845305,810d292a,1903c126_100m-2_interleaved.fq.gz,0.000337076989094568,62000
+,species,4.4415343638648225e-05,d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Synechococcus_E;s__Synechococcus_E sp016777265,810d292a,1903c126_100m-2_interleaved.fq.gz,3.580888119441855e-05,62000
+,species,4.4415343638648225e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__HTCC2089;g__UBA9659;s__UBA9659 sp018645845,810d292a,1903c126_100m-2_interleaved.fq.gz,3.492105769373049e-05,62000
+,species,4.3698967128347446e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pseudoalteromonas;s__Pseudoalteromonas tetraodonis,810d292a,1903c126_100m-2_interleaved.fq.gz,5.6228821710244e-05,61000
+,species,4.3698967128347446e-05,d__Bacteria;p__Myxococcota_A;c__UBA9160;o__UBA9160;f__SMWR01;g__JABSQX01;s__JABSQX01 sp013215615,810d292a,1903c126_100m-2_interleaved.fq.gz,3.758452819579468e-05,61000
+,species,4.3698967128347446e-05,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopelagicus;s__Nitrosopelagicus sp902512865,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00011275358458738403,61000
+,species,4.2982590618046674e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Sulfitobacter;s__Sulfitobacter sp001634775,810d292a,1903c126_100m-2_interleaved.fq.gz,3.048194019029017e-05,60000
+,species,4.2266214107745895e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA8438;g__UBA2994;s__UBA2994 sp002346545,810d292a,1903c126_100m-2_interleaved.fq.gz,3.136976369097823e-05,59000
+,species,4.1549837597445116e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Arenicellales;f__UBA868;g__UBA868;s__UBA868 sp016776875,810d292a,1903c126_100m-2_interleaved.fq.gz,4.942217487163552e-05,58000
+,species,4.1549837597445116e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Alcanivoracaceae;g__Alcanivorax;s__Alcanivorax sp002733835,810d292a,1903c126_100m-2_interleaved.fq.gz,2.6930646187537918e-05,58000
+,species,4.0833461087144337e-05,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA1268;g__UBA1268;s__UBA1268 sp905477565,810d292a,1903c126_100m-2_interleaved.fq.gz,3.166570485787425e-05,57000
+,species,4.011708457684356e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Alteromonas;s__Alteromonas mediterranea,810d292a,1903c126_100m-2_interleaved.fq.gz,2.752252852132996e-05,56000
+,species,4.011708457684356e-05,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__S20-B6;s__S20-B6 sp002329075,810d292a,1903c126_100m-2_interleaved.fq.gz,0.00013968423077492196,56000
+,species,4.011708457684356e-05,d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA823;g__UBA11600;s__UBA11600 sp002730735,810d292a,1903c126_100m-2_interleaved.fq.gz,3.610482236131457e-05,56000
+,species,4.011708457684356e-05,d__Bacteria;p__Latescibacterota;c__UBA2968;o__UBA8231;f__UBA8231;g__GCA-2725915;s__GCA-2725915 sp002725915,810d292a,1903c126_100m-2_interleaved.fq.gz,3.492105769373049e-05,56000
+,species,3.940070806654278e-05,d__Archaea;p__Thermoplasmatota;c__Poseidoniia;o__Poseidoniales;f__Poseidoniaceae;g__MGIIa-L1;s__MGIIa-L1 sp000246735,810d292a,1903c126_100m-2_interleaved.fq.gz,3.37372930261464e-05,55000
+,species,3.8684331556242006e-05,d__Bacteria;p__Chloroflexota;c__Dehalococcoidia;o__UBA1151;f__UBA1328;g__GCA-002725925;s__GCA-002725925 sp002725925,810d292a,1903c126_100m-2_interleaved.fq.gz,4.764652787025939e-05,54000
+,species,3.8684331556242006e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Qipengyuania;s__Qipengyuania sp016764075,810d292a,1903c126_100m-2_interleaved.fq.gz,3.048194019029017e-05,54000
+,species,3.725157853564045e-05,d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__UBA1611;g__TMED80;s__TMED80 sp002713885,810d292a,1903c126_100m-2_interleaved.fq.gz,3.284946952545834e-05,52000
+,species,3.581882551503889e-05,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__SAR86;f__SAR86;g__GCA-2730855;s__GCA-2730855 sp902514295,810d292a,1903c126_100m-2_interleaved.fq.gz,3.136976369097823e-05,50000
+,species,3.581882551503889e-05,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__UBA2165;g__TMED23;s__TMED23 sp012960465,810d292a,1903c126_100m-2_interleaved.fq.gz,3.314541069235436e-05,50000
+,species,0.9462101533475558,unclassified,810d292a,1903c126_100m-2_interleaved.fq.gz,0.8527583196460544,1544000

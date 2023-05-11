@@ -1,0 +1,22 @@
+query_name,rank,fraction,lineage,query_md5,query_filename,f_weighted_at_rank,bp_match_at_rank
+,superkingdom,0.009840810419681621,Eukaryota,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.011545015961404604,68000
+,superkingdom,0.009696092619392185,d__Bacteria,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.014281256750594053,67000
+,superkingdom,0.9804630969609262,unclassified,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.9741737272880013,6000
+,phylum,0.009840810419681621,Eukaryota;Alveolata:Dinophyta,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.011545015961404604,68000
+,phylum,0.009696092619392185,d__Bacteria;p__Actinobacteriota,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.014281256750594053,67000
+,phylum,0.9804630969609262,unclassified,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.9741737272880013,6000
+,class,0.009840810419681621,Eukaryota;Alveolata:Dinophyta;Dinophyceae,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.011545015961404604,68000
+,class,0.009696092619392185,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.014281256750594053,67000
+,class,0.9804630969609262,unclassified,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.9741737272880013,6000
+,order,0.009840810419681621,Eukaryota;Alveolata:Dinophyta;Dinophyceae;Peridiniales,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.011545015961404604,68000
+,order,0.009696092619392185,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.014281256750594053,67000
+,order,0.9804630969609262,unclassified,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.9741737272880013,6000
+,family,0.009840810419681621,Eukaryota;Alveolata:Dinophyta;Dinophyceae;Peridiniales;Peridiniaceae,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.011545015961404604,68000
+,family,0.009696092619392185,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.014281256750594053,67000
+,family,0.9804630969609262,unclassified,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.9741737272880013,6000
+,genus,0.009840810419681621,Eukaryota;Alveolata:Dinophyta;Dinophyceae;Peridiniales;Peridiniaceae;Glenodinium,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.011545015961404604,68000
+,genus,0.009696092619392185,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.014281256750594053,67000
+,genus,0.9804630969609262,unclassified,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.9741737272880013,6000
+,species,0.009840810419681621,Eukaryota;Alveolata:Dinophyta;Dinophyceae;Peridiniales;Peridiniaceae;Glenodinium;Glenodinium foliaceum,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.011545015961404604,68000
+,species,0.009696092619392185,d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Acidimicrobiales;f__MedAcidi-G1;g__UBA9410;s__UBA9410 sp014237715,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.014281256750594053,67000
+,species,0.9804630969609262,unclassified,283d9daa,Las19c138_100m-3_interleaved.fq.gz,0.9741737272880013,6000
